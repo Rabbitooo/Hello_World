@@ -3,7 +3,7 @@
 
 www.jlu.edu.cn
 
-[the second markdown file](https://github.com/Rabbitooo/Hello_World/edit/main/moshimoshi.md)
+[the second markdown file](https://github.com/Rabbitooo/Hello_World/blob/main/moshimoshi.md)
 
 ![an image that is a file in the directory](Rabbitooo.jpg)
 
